@@ -1,0 +1,49 @@
+Relational :
+-------------
+Check/Compare relation between two operands.
+Result will be either True or False
+
+ <  - Less Than
+ <= - Less Than or Equal To
+ >  - Greater Than
+ >= - Greater Than or Equal To
+ == - Equal To
+ != - Not Equal To
+
+
+Logical :
+----------
+Combining two or more statements.
+Result Will be either True or False
+
+ && - And (True If All statements are True)
+ || - Or  (True if one of the statements are True)
+ !  - Not (Reverse result)
+
+
+Assignment :
+-------------
+Used to assign values to variables
+
+ =  - Simple Assignment
+ += - Addition Assignment
+ -= - Subtraction Assignment
+ *= - Multiplication Assignment
+ /= - Division Assignment
+ %= - Remainder Assignment
+
+
+Unary :
+--------
+Operations with single operand.
+
+Increment(++)
+Decrement(--)
+
+
+Ternary :
+----------
+It is a Conditional operator.
+Execute statements based on conditions
+
+Condition ? statement(If True) : Statement(If False)
